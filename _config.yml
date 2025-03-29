@@ -1,0 +1,19 @@
+theme: jekyll-theme-minimal
+title: Ars Magica Character Generator
+description: This is the top-level web site for Ars Magica material
+
+markdown: kramdown
+github_username:  lokearm
+
+
+url: "https://ars-magica.github.io/"
+
+
+
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - faraday-retry
+
+
