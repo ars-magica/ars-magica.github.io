@@ -1,4 +1,3 @@
-
 # Ars Magica Character Generator
 
 + The [Hibernia Saga](hibernia/) showcasing the character generator
